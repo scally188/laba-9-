@@ -10,10 +10,10 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	int n; 
+	int t; 
 	cout << "enter n";
-	cin >> n;
-	switch (n) {
+	cin >> t;
+	switch (t) {
 	case 1:
 		cout << "Меркурий";
 		break;
